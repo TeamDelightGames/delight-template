@@ -1,0 +1,7 @@
+name: delight-template
+main: skh6075\delightgames\template\Main
+author: [DelightGames, skh6075]
+version: 1.0.0
+api: 5.0.0
+
+src-namespace-prefix: skh6075\delightgames\template
